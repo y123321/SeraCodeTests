@@ -1,0 +1,5 @@
+c:\DB History\SeraCode\LAPTOP-3FNLR5HE\DEMO2\FlyWeyScripts\R1000_0000_0010__19_09_16-17_36_26_Yuval_[dbo].[Table_1]_TABLE.sql
+c:\DB History\SeraCode\LAPTOP-3FNLR5HE\DEMO2\FlyWeyScripts\R1000_0000_0020__19_09_16-17_36_26_Yuval_[dbo].[Table_1]_TABLE.sql
+c:\DB History\SeraCode\LAPTOP-3FNLR5HE\DEMO2\FlyWeyScripts\R1000_0000_0030__19_09_16-17_36_47_Yuval_[dbo].[View_1]_VIEW.sql
+c:\DB History\SeraCode\LAPTOP-3FNLR5HE\DEMO2\FlyWeyScripts\R1000_0000_0040__19_09_16-17_36_47_Yuval_[dbo].[View_1]_VIEW.sql
+c:\DB History\SeraCode\LAPTOP-3FNLR5HE\DEMO2\FlyWeyScripts\R1000_0000_0050__19_09_16-17_36_47_Yuval_[dbo].[View_1]_VIEW.sql
