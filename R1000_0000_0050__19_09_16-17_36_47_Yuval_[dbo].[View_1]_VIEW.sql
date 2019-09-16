@@ -1,0 +1,1 @@
+EXECUTE sp_addextendedproperty N'MS_DiagramPaneCount', @v, N'SCHEMA', N'dbo', N'VIEW', N'View_1', NULL, NULL
